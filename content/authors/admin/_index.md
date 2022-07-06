@@ -38,4 +38,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-Joe Bathelt is a lecturer at Royal Holloway, University of London. His research focuses on neurocognitive development between childhood and adolescence. He leads the DIVERSE lab, which investigates diverse pathways in brain and cognitive development
+Joe Bathelt is a lecturer at Royal Holloway, University of London. His research focuses on neurocognitive development between childhood and adolescence. He leads the DIVERSE lab, which investigates diverse pathways in brain and cognitive development.
