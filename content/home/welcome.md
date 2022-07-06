@@ -12,6 +12,4 @@ design:
   background:
     image: ""
 ---
-<br>
-
 Investigating diverse paths in neurocognitive development.
