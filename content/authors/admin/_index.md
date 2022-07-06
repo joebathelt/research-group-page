@@ -1,7 +1,7 @@
 ---
 title: Joe Bathelt
 role: Lecturer in Psychology
-avatar_filename: img_0237.jpeg
+avatar_filename: avatar.jpeg
 bio: My research focuses on neurocognitive development between children and
   adolescents.
 interests: []
