@@ -4,7 +4,7 @@ headless: true
 weight: 10
 title: Diverse Lab
 hero_media: welcome.jpg
-widget_id: home
+widget_id: welcome
 design:
   columns: "1"
   css_style: null
