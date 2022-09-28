@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Royal Holloway, University of London
-  url: ""
+  url: "https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -64,3 +64,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+
+Donata's research focuses on the impact of chronic pain on the neurocognitive development in adolescence

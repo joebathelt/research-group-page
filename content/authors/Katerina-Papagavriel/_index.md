@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Royal Holloway, University of London
-  url: ""
+  url: "https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
