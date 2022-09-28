@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Joe Bathelt is a lecturer in psychology at Royal Holloway, University of London. His research focuses on neurocognitive development in childhood and adolescence. He leads the DIVERSE lab research group, which investigates diverse pathways in brain and cognitive development.
